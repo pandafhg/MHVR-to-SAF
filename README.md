@@ -9,7 +9,7 @@ The DNN model was developed using peak frequency and the frequency-dependent rel
 The model can automatically produce site amplification factor of S-wave only from microtremor data.
 
 # Documents
-"model.onnx" : We provide onnx file of already trained DNN models.
+"model.onnx" : We provide the onnx file of already trained DNN model.
 
 "RunOnnx.py" : A simple python-based code to run the models in this study with ONNX Runtime.
 
