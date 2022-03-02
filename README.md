@@ -20,7 +20,7 @@ The model can automatically produce site amplification factor of S-wave only fro
 "RunOnnx Tutorials.docx" : A detailed tutorial with English and Japanese versions.
 
 # Related Article
-For a more detailed description, please refer to the authors' article (below).
+For more detailed description, please refer to the authors' article (below).
 
 If you need to use the model in your study, please cite the author's article (below).
 
