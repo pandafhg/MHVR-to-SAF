@@ -1,6 +1,6 @@
 # Refrence:https://www.onnxruntime.ai/python/index.html
-# We provide onnx files of already trained DNN models, including fold 1 to fold 10.
-# A simple code to run the models in this study with ONNX Runtime.
+# We provide onnx files of already trained DNN models.
+# A simple code to run the model in this study with ONNX Runtime.
 # Make sure the csv file encoding is utf-8, otherwise it may report error
 
 # input test.csv file: sample.csv
