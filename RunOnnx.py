@@ -34,6 +34,7 @@ X_temp = pd.read_csv(test_file) # encoding = "utf-8"
 
 result = pd.concat([X_temp, Y_result], axis=1)
 result["pSAF"] = result["%s" % X_temp.columns[4]] * result["AMR(fi)"]
+result.round(6)
 print(result)
 
 result.to_csv(y_file, float_format = '%.6f', index=None)
