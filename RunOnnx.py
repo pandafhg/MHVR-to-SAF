@@ -36,7 +36,7 @@ result = pd.concat([X_temp, Y_result], axis=1)
 result["pSAF"] = result["%s" % X_temp.columns[4]] * result["AMR(fi)"]
 print(result)
 
-result.to_csv(y_file, index=None)
+result.to_csv(y_file, float_format = '%.6f', index=None)
 
 print("Saved as %s" % y_file)
 input("   ")
