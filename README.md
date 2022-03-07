@@ -29,4 +29,4 @@ Pan et al., Deep Neural Network-based Estimation of Site Amplification Factor fr
 # Contact
 If you have any questions or suggestions, please send an email to the author.
 
-Da Pan; pd19951229@gmail.com
+Da Pan; pd19951229@gmail.com; d214903@hiroshima-u.ac.jp
