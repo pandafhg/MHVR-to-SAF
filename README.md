@@ -24,7 +24,7 @@ For more detailed description, please refer to the authors' article (below).
 
 If you need to use the model in your study, please cite the author's article (below).
 
-Pan et al., Deep Neural Network-based Estimation of Site Amplification Factor from Microtremor H/V Spectral Ratio (Coming soon online).
+Pan et al., Deep Neural Network-based Estimation of Site Amplification Factor from Microtremor H/V Spectral Ratio (DOI: 10.1785/0120210300).
 
 # Contact
 If you have any questions or suggestions, please send an email to the author.
