@@ -11,7 +11,7 @@ The model can automatically produce site amplification factor of S-wave only fro
 # Documents
 "model.onnx" : We provide the onnx file of already trained DNN model.
 
-"RunOnnx.py" : A simple python-based code to run the models in this study with ONNX Runtime.
+"RunOnnx.py" : A simple python-based code to run the model in this study with ONNX Runtime.
 
 "sample.csv" : Input data for example.
 
