@@ -5,7 +5,7 @@ A batch processing program for MHVR_to_SAF has been created.
 The following contents have been added to the folder.
 - The file RunOnnxBatch.py is the batch processing.
 - The folder MHVR contains all MHVR data (support *.csv, *.txt, *.dat) that needs to be processed. 
-  Spacing of data columns supports spaces, double spaces, tabs and commas.
+  Spacing of data columns supports space, double space, tab and comma.
 - The MHVR_SAF folder contains processed pSAF data and is named in the format [SAF_source_filename]. Some examples can be found in the MHVR_SAF_Sample folder.
 
 Flow:
