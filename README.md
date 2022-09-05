@@ -10,9 +10,9 @@ The following contents have been added to the folder.
 
 Flow:
 
-Click on RunOnnxBatch.py and it will show the path where the pSAF is stored; and
-Enter the folder path (full path) with all MHVR data;.
-After the process is completed, the saved file path is shown.
+* Click on RunOnnxBatch.py and it will show the path where the pSAF is stored; 
+* Enter the folder path (full path) with all MHVR data;.
+* After the process is completed, the saved file path is shown.
 
 # Introduction
 This study proposed a novel methodology for directly estimating S-wave site amplification factors (SAF) from microtremor 
