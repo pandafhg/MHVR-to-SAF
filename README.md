@@ -1,6 +1,16 @@
 # MHVR-to-SAF
 
-
+# Update. 2022-09-05
+A batch processing program for MHVR_to_SAF has been created.
+The following contents have been added to the folder.
+> The file RunOnnxBatch.py is the batch processing.
+> The folder MHVR contains all MHVR data (support *.csv, *.txt, *.dat) that needs to be processed. 
+  Spacing of data columns supports spaces, double spaces, tabs and commas.
+> The MHVR_SAF folder contains processed pSAF data and is named in the format [SAF_source_filename]. Some examples can be found in the MHVR_SAF_Sample folder.
+> Flow:.
+Click on RunOnnxBatch.py and it will show the path where the pSAF is stored; and
+Enter the folder path (full path) with all MHVR data;.
+After the process is completed, the saved file path is shown.
 
 # Introduction
 This study proposed a novel methodology for directly estimating S-wave site amplification factors (SAF) from microtremor 
